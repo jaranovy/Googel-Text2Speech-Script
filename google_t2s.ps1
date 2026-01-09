@@ -1,7 +1,8 @@
+# Vygenerovano pomoci LLM https://claude.ai/ Sonet 4.5
 # ============================================
 # NASTAVENÍ - Uprav tyto hodnoty
 # ============================================
-$apiKey = "??????????????" # Je potreba vytvorit Google projekt, povolit Cloud Text2Speach Service a zisakt API klic 
+$apiKey = "??????????????" # Je potreba vytvorit Google projekt, povolit Cloud Text2Speach Service a ziskat API klic 
                                                     # https://console.cloud.google.com/apis/api/texttospeech.googleapis.com/cost?project=poetic-analog-454018-h6
                                                     # 1 milion znaku mesicne by melo byt zdarma, pak 30 USD za milion znaku
 $inputFolder = "c:\_Data\Projects\tts\kapitoly"   # slozka s txt soubory
